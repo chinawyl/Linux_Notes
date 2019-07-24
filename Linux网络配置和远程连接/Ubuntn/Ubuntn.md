@@ -26,7 +26,8 @@ Ubuntn的基本安装配置
 
    5313 ?        00:00:00 sshd------------对应服务器端
 
-  ssh-agent表示ssh-client启动，sshd表示ssh-server启动了。
+  ssh-agent表示ssh-client启动
+  ，sshd表示ssh-server启动了。
 
   如果缺少sshd，说明ssh服务没有启动或者没有安装。
   安装ssh-client命令： apt-get install openssh-client
