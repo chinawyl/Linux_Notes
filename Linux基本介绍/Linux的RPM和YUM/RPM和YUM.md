@@ -19,3 +19,12 @@
 注:
 
 ![004](D:\Linux_Notes\Linux基本介绍\Linux的RPM和YUM\004.png)
+
+7.yum基本指令
+
+![005](D:\Linux_Notes\Linux基本介绍\Linux的RPM和YUM\005.png)
+
+8.yum管理原理示意图
+
+![006](D:\Linux_Notes\Linux基本介绍\Linux的RPM和YUM\006.png)
+
