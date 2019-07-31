@@ -4,11 +4,11 @@ Ubuntn已经下自动安装
 
 检查环境是否安装
 
-![001](D:\Linux_Notes\Linux的Python定制(Ubuntn)\001.png)
+![001](001.png)
 
 Hello World实验
 
-![002](D:\Linux_Notes\Linux的Python定制(Ubuntn)\002.png)
+![002](002.png)
 
 注:安装vim命令:apt install vim
 
@@ -16,11 +16,11 @@ Hello World实验
 
 原理示意图
 
-![003](D:\Linux_Notes\Linux的Python定制(Ubuntn)\003.png)
+![003](003.png)
 
 常用命令
 
-![004](D:\Linux_Notes\Linux的Python定制(Ubuntn)\004.png)
+![004](004.png)
 
 注:建议使用清华镜像，https://mirrors.tuna.tsinghua.edu.cn/
 
