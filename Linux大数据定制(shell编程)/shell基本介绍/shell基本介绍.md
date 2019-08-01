@@ -1,6 +1,6 @@
 一、shell原理示意图
 
-![001](D:\Linux_Notes\Linux大数据定制(shell编程)\shell基本介绍\001.png)
+![001](001.png)
 
 注:shell是命令解释器
 
@@ -16,11 +16,11 @@
 
 ​		方式一:首先给脚本可执行权限，然后用相对路径或绝对路径执行
 
-![002](D:\Linux_Notes\Linux大数据定制(shell编程)\shell基本介绍\002.png)
+![002](002.png)
 
 ​		方式二:不给脚本可执行权限，直接执行(不推荐)
 
-![003](D:\Linux_Notes\Linux大数据定制(shell编程)\shell基本介绍\003.png)
+![003](003.png)
 
 注:shell一般后缀为sh，也可以是其他
 
