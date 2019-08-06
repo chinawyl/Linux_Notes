@@ -27,3 +27,5 @@
 
 ![006](D:\Linux_Notes\Linux的RPM和YUM\006.png)
 
+
+
