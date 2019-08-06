@@ -30,17 +30,17 @@
 
 ​	示例:
 
-![001](D:\Linux_Notes\Linux大数据定制(shell编程)\shell流程控制\001.png)
+![001](001.png)
 
 二、case
 
  基本语法:
 
-![002](D:\Linux_Notes\Linux大数据定制(shell编程)\shell流程控制\002.png)
+![002](002.png)
 
 ​	示例:
 
-![003](D:\Linux_Notes\Linux大数据定制(shell编程)\shell流程控制\003.png)
+![003](003.png)
 
 三、for
 
@@ -48,33 +48,33 @@
 
 ​		方式一
 
-![004](D:\Linux_Notes\Linux大数据定制(shell编程)\shell流程控制\004.png)
+![004](004.png)
 
 ​		示例:
 
-![005](D:\Linux_Notes\Linux大数据定制(shell编程)\shell流程控制\005.png)
+![005](005.png)
 
-![006](D:\Linux_Notes\Linux大数据定制(shell编程)\shell流程控制\006.png)
+![006](006.png)
 
 ​		注:一般用$@处理
 
 ​		方式二
 
-![007](D:\Linux_Notes\Linux大数据定制(shell编程)\shell流程控制\007.png)
+![007](007.png)
 
 ​		示例:
 
-![008](D:\Linux_Notes\Linux大数据定制(shell编程)\shell流程控制\008.png)
+![008](008.png)
 
-![009](D:\Linux_Notes\Linux大数据定制(shell编程)\shell流程控制\009.png)
+![009](009.png)
 
 四、while
 
 ​	基本语法:
 
-![010](D:\Linux_Notes\Linux大数据定制(shell编程)\shell流程控制\010.png)
+![010](010.png)
 
 ​	示例:
 
-![011](D:\Linux_Notes\Linux大数据定制(shell编程)\shell流程控制\011.png)
+![011](011.png)
 
