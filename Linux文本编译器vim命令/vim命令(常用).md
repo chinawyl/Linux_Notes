@@ -173,10 +173,6 @@ visual 模式：
     :help ：查看帮助文档，在这之中，按CTRL+] 进入超连接，按CTRL＋O 返回。
     :help subject :看某一主题的帮助，ZZ 退出帮助
 
-
-
-
-
 其它常用：
 
 ​    :newtab   新建标签
