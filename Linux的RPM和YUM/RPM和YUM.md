@@ -1,31 +1,42 @@
-1.查看已安装的rpm列表:rpm -qa | grep xx
+一、rpm指令
 
-2.rpm包名基本格式
+```shell
+#查看已安装的rpm软件包
+rpm -qa | grep xx
 
-![001](001.png)
+#查询火狐浏览器软件包是否已经安装
+rpm -q firefox
 
-3.rpm包其他查询指令
+#查询火狐浏览器软件包信息
+rpm -qi firefox
 
-![002](002.png)
+#查询火狐浏览器软件包中的文件
+rpm -ql firefox
 
-4.卸载rpm包:rpm -e RPM包的名称
+#查询文件所属rpm软件包
+rpm -qf /etc/passwd #文件路径必须是全路径名
 
-5.卸载rpm包可能遇到的问题
+#安装RPM包
+RPM -ivh RPM包全路径名词 #i表示安装，v表示提示，h表示进度条
 
-![003](003.png)
+#卸载rpm包
+rpm -e RPM包的名称
+rpm -e --nodeps RPM包的名称 #卸载rpm包可能遇到存在依赖无法删除，可以加入参数--nodeps强制删除
+```
 
-6.安装RPM包:RPM -ivh RPM包全路径名词
+二、yum指令
 
-注:
-![004](004.png)
+yum管理原理示意图
 
-7.yum基本指令
+![001](D:\Linux_Notes\Linux的RPM和YUM\001.png)
 
-![005](005.png)
+```shell
+#查询yun服务器是否有需要安装软件
+yum list | grep xxx
 
-8.yum管理原理示意图
-
-![006](006.png)
+#安装指定yum包
+yum install xxx #可以加-y跳过一些依赖是否确认安装
+```
 
 
 
